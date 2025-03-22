@@ -12,7 +12,7 @@ if (0) console.log("Falsy"); // Won't run
 
 //if ("Hello") console.log("Truthy"); // Runs
 //setInterval(() => console.log("hello"), 2000);
-sayHello(); // ✅ Works: "Hello!"
+sayHello(); //  Works: "Hello!"
 function sayHello() { console.log("Hello!"); }
 let str1=new String("tejas");
 let str2=new String("tejas");
